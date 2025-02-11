@@ -1,0 +1,23 @@
+{
+  "invoiceNumber": "INV-001",
+  "date": "2025-02-11",
+  "customer": {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "123 Main Street, City, Country"
+  },
+  "items": [
+    {
+      "description": "Web Development Service",
+      "quantity": 10,
+      "unitPrice": 50.0
+    },
+    {
+      "description": "Hosting Service",
+      "quantity": 1,
+      "unitPrice": 100.0
+    }
+  ],
+  "taxRate": 0.1,
+  "discount": 20.0
+}
